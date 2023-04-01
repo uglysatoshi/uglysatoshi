@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @uglysatoshi
-- 🌱 I’m currently learning С++
+- 🌱 I’m currently learning Java
 - 📫 You can reach me on telegram: @uglysatoshi
