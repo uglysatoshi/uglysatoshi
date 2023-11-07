@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @uglysatoshi
-- 🌱 I’m currently learning NOTHING:)
+- 🌱 I’m currently learning Flask/FastAPI, JS
 - 📫 You can reach me on telegram: @uglysatoshi
