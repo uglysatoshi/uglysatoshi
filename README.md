@@ -1,9 +1,10 @@
 <h2 align="center">About Me </h2>
 
-- 👋 Hi, I’m @uglysatoshi
-- 🌱 I’m currently learning Flask/FastAPI, JS
-- 📫 You can reach me on telegram: @uglysatoshi
-
+<p align="center">
+<p align="center">- 👋 Hi, I’m @uglysatoshi</p>
+<p align="center">- 🌱 I’m currently learning Flask/FastAPI, JS</p>
+<p align="center">- 📫 You can reach me on telegram: @uglysatoshi</p>
+</p>
 
 <h2 align="center">Skills </h2>
 <p align="center">
