@@ -1,4 +1,4 @@
-<h2 align="center">About Me </h2>
+<h2 align="left">About Me </h2>
 
 
 - 👋 Hi, I’m @uglysatoshi</p>
@@ -6,12 +6,6 @@
 - 📫 You can reach me on telegram: @uglysatoshi</p>
 
 
-<h2 align="center">Skills </h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,java,js,css,html,linux,figma,docker,mongodb,bash" />
-  </a>
-</p>
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=uglysatoshi&theme=tokyonight&show_icons=true">
-</p>
+![Sato's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglysatoshi&theme=dracula&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uglysatoshi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
