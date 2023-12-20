@@ -6,6 +6,6 @@
 - 📫 You can reach me on telegram: @uglysatoshi</p>
 
 
-![Sato's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglysatoshi&theme=dracula&show_icons=true&include_all_commits=true)
+![Satoshi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=uglysatoshi\&show_icons=true\&theme=dark#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uglysatoshi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uglysatoshi&layout=compact&theme=dark#gh-dark-mode-only)
