@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @uglysatoshi</p>
-- 🌱 I’m currently learning Flask/FastAPI, JS</p>
+- 🌱 I’m currently learning JS</p>
 - 📫 You can reach me on telegram: @uglysatoshi</p>
 
 
