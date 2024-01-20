@@ -1,9 +1,11 @@
-<h2 align="left">About Me </h2>
+# About Me 
 
 
-- 👋 Hi, I’m @uglysatoshi</p>
-- 🌱 I’m currently learning JS</p>
-- 📫 You can reach me on telegram: @uglysatoshi</p>
+- 👋 Hi, I’m @uglysatoshi
+- 🌱 I’m currently learning Golang
+- 📫 You can reach me on telegram: @uglysatoshi
 
+
+# My Stats
 
 ![Satoshi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=uglysatoshi\&show_icons=true\&theme=dark#gh-dark-mode-only)
